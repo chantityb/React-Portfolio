@@ -1,23 +1,22 @@
 import React, { Component } from 'react';
-import Background from './img/bg-masthead.jpg';
 import './Header.css';
-
-const myStyles = {
-		backgroundImage: `url( ${Background} )`,
-		height: '80vh',
-		backgroundSize: 'cover'
-	}
 
 
 class Header extends Component {
 
 	render(){
 		return(
-			<header style={myStyles}>
-				<h1>{this.props.title}</h1>
-				<p>A Free Bootstrap Theme by Start Bootstrap</p>
-				<a href="#button">{this.props.button}</a>
-			</header>
+
+		    <header className="masthead d-flex">
+		      <div className="container text-center my-auto">
+		        <h1 className="mb-1">{this.props.title}</h1>
+		        <h3 className="mb-5">
+		          <em>A Free Bootstrap Theme by Start Bootstrap</em>
+		        </h3>
+		        <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">{this.props.button}</a>
+		      </div>
+		      <div className="overlay"></div>
+		    </header>
 		)
 	}
 };
