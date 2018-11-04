@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-
+import './Footer.css';
 
 class Footer extends Component {
 	render(){
@@ -24,7 +24,7 @@ class Footer extends Component {
 		            </a>
 		          </li>
 		        </ul>
-		        <p className="text-muted small mb-0">Copyright &copy; Your Website 2018</p>
+		        <p className="text-muted small mb-0">Copyright &copy; Chantity Buraimoh 2018</p>
 		      </div>
 		    </footer>
 

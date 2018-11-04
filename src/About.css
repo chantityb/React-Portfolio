@@ -1,4 +1,4 @@
-.container-section {
+ .container-section {
 	padding-top: 7.5em;
 	padding-bottom: 7.5em;
 }
@@ -11,3 +11,6 @@ display {
 	display: block;
 }
 
+a {
+	color: #4d9a8f;
+}

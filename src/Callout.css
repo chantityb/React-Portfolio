@@ -1,0 +1,8 @@
+.callout {
+	padding: 15rem 0;
+	background-image: url(./img/bg-masthead.jpg);
+}
+
+.callout h2 {
+	color: #fff;
+}
