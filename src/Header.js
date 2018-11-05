@@ -11,7 +11,7 @@ class Header extends Component {
 		      <div className="container text-center my-auto">
 		        <h1 className="mb-1">{this.props.title}</h1>
 		        <h3 className="mb-5">
-		          <em>A Free Bootstrap Theme by Start Bootstrap</em>
+		          <em>Built using React and Bootstrap</em>
 		        </h3>
 		        <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">{this.props.button}</a>
 		      </div>

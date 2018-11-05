@@ -16,10 +16,10 @@ class Navigation extends Component {
 
       		<ul>
       			{navLinks}
-			</ul>
+			   </ul>
 
       	</nav>
-       
+
       </div>
     );
   }

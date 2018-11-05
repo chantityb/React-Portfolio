@@ -23,7 +23,7 @@ class Services extends Component {
 			        <h4>
 			          	<strong>Responsive</strong>
 			        </h4>
-			        <p className="text-faded mb-0">Looks great on any screen size!</p>
+			        <p className="text-faded mb-0">swag coloring book mustache</p>
 			    </div>
 			    <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
 			        <span className="service-icon rounded-circle mx-auto mb-3">
@@ -32,7 +32,7 @@ class Services extends Component {
 			        <h4>
 			            <strong>Redesigned</strong>
 			        </h4>
-			        <p className="text-faded mb-0">Freshly redesigned for Bootstrap 4.</p>
+			        <p className="text-faded mb-0">Yuccie woke PBR&B</p>
 			    </div>
 			    <div className="col-lg-3 col-md-6 mb-5 mb-md-0">
 			        <span className="service-icon rounded-circle mx-auto mb-3">
@@ -41,9 +41,7 @@ class Services extends Component {
 			        <h4>
 			            <strong>Favorited</strong>
 			        </h4>
-			       	<p className="text-faded mb-0">Millions of users
-			            <i className="fas fa-heart"></i>
-			              Start Bootstrap!
+			       	<p className="text-faded mb-0">Stumptown vinyl skateblarb
 			        </p>
 			    </div>
 			    <div className="col-lg-3 col-md-6">
@@ -53,7 +51,7 @@ class Services extends Component {
 			        <h4>
 			            <strong>Question</strong>
 			        </h4>
-			            <p className="text-faded mb-0">I mustache you a question...</p>
+			            <p className="text-faded mb-0">Fashion axe shaman pitchfork</p>
 			    	</div>
 			   	</div>
 			  </div>
